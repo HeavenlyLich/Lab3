@@ -1,0 +1,15 @@
+C:\Users\Heavenly_lich\source\repos\Lab3.2\Lab3.2\bin\Debug\net7.0\Lab3.2.exe
+C:\Users\Heavenly_lich\source\repos\Lab3.2\Lab3.2\bin\Debug\net7.0\Lab3.2.deps.json
+C:\Users\Heavenly_lich\source\repos\Lab3.2\Lab3.2\bin\Debug\net7.0\Lab3.2.runtimeconfig.json
+C:\Users\Heavenly_lich\source\repos\Lab3.2\Lab3.2\bin\Debug\net7.0\Lab3.2.dll
+C:\Users\Heavenly_lich\source\repos\Lab3.2\Lab3.2\bin\Debug\net7.0\Lab3.2.pdb
+C:\Users\Heavenly_lich\source\repos\Lab3.2\Lab3.2\obj\Debug\net7.0\Lab3.2.csproj.AssemblyReference.cache
+C:\Users\Heavenly_lich\source\repos\Lab3.2\Lab3.2\obj\Debug\net7.0\Lab3.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Heavenly_lich\source\repos\Lab3.2\Lab3.2\obj\Debug\net7.0\Lab3.2.AssemblyInfoInputs.cache
+C:\Users\Heavenly_lich\source\repos\Lab3.2\Lab3.2\obj\Debug\net7.0\Lab3.2.AssemblyInfo.cs
+C:\Users\Heavenly_lich\source\repos\Lab3.2\Lab3.2\obj\Debug\net7.0\Lab3.2.csproj.CoreCompileInputs.cache
+C:\Users\Heavenly_lich\source\repos\Lab3.2\Lab3.2\obj\Debug\net7.0\Lab3.2.dll
+C:\Users\Heavenly_lich\source\repos\Lab3.2\Lab3.2\obj\Debug\net7.0\refint\Lab3.2.dll
+C:\Users\Heavenly_lich\source\repos\Lab3.2\Lab3.2\obj\Debug\net7.0\Lab3.2.pdb
+C:\Users\Heavenly_lich\source\repos\Lab3.2\Lab3.2\obj\Debug\net7.0\Lab3.2.genruntimeconfig.cache
+C:\Users\Heavenly_lich\source\repos\Lab3.2\Lab3.2\obj\Debug\net7.0\ref\Lab3.2.dll
